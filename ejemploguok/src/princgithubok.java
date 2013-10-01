@@ -11,7 +11,10 @@ public class princgithubok {
 		//con comentario
 		//master 
 		//branch
-		System.out.println("otro cambio xxxx ");
+		System.out.println("cambio letrero");
+		//este cambio es desde el workspace 2
+		System.out.println("otro cambio esta vez desde el workspace");
+		
 	}
 
 }
