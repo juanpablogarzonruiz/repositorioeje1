@@ -13,7 +13,16 @@ public class princgithubok {
 		//branch
 		System.out.println("cambio letrero");
 		//este cambio es desde el workspace 2
+		System.out.println("otro cambio ");
+		//con comentario
+		//master 
+		//branch
+		System.out.println("cambio letrero");
+		//este cambio es desde el workspace 2
 		System.out.println("otro cambio esta vez desde el workspace");
+		
+		System.out.println("se supone que este esun cambio desde el archivo pero desde el workspace clonado al otro");
+		
 		
 	}
 
