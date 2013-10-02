@@ -1,7 +1,8 @@
 
 public class nuevaclase {
-	public nuevaclase(){
-		
+	int x=0;
+	public nuevaclase(int p){
+			x=p;
 	
 	}
 }
